@@ -1,0 +1,18 @@
+#welcome {
+    color:rgb(250, 205, 174);
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+}
+body{
+    background-color: rgb(238, 143, 53);
+    background-size: cover;
+}
+#info{
+    color: rgb(255, 228, 211);
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
